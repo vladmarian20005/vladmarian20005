@@ -50,7 +50,7 @@ A personalized fitness training app designed for users of all fitness levels.
 ---
 
 ## 🛠️ Tech Stack
-![Tools](https://skillicons.dev/icons?i=apple,swift,python,java,cpp,tensorflow,pytorch,opencv,arduino,raspberrypi,firebase,mysql,docker,git,github,figma&theme=dark)
+![Tools](https://skillicons.dev/icons?i=apple,swift,python,java,cpp,tensorflow,pytorch,opencv,arduino,raspberrypi,firebase,mysql,docker,git,github,figma&theme=dark&perline=4)
 
 ---
 

@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Vlad Marian!
-
 ![Profile Banner](./github-header-image-4.png)
 
 ## 👨‍💻 About Me

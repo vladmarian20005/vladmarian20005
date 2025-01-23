@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vlad Marian!
 
-![Profile Banner](https://via.placeholder.com/800x200) <!-- Replace this with your custom banner -->
+![Profile Banner](./github-header-image-4.png)
 
 ## 👨‍💻 About Me
 - 💡 Passionate about **AI, iOS Development**, and building **innovative solutions** that improve everyday life.
